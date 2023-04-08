@@ -31,6 +31,7 @@ You may have been using a Password Manager, like Keepass and cloud-synced over D
 ##### Summary:
 Simply losing your daily device results in a total lock-out scenario of all your digital assets. This includes your contacts (phone numbers of your support system), email, banking and all others. This can be an inconvenience or a significant security risk. Maybe you have another old laptop at home that is still logged into your email or maybe not.
 
+
 ### Excellent security posture (Vonvoo Method)
 A great vacation has begun, where you have both your cellphone and laptop.
 #### Current Technical posture:
