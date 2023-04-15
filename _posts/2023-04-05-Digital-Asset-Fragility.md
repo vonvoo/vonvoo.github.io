@@ -4,62 +4,58 @@ title: Digital Asset Fragility
 subtitle: How securing digital assets properly also protects against losing digital assets
 ---
 
+#### Common scenarios demonstrate this.
+Using your laptop in the living room.
 
+Walking to a café.
 
-## A common scenario will be presented, that demonstrates this point.
+Visiting friends for the weekend.
 
-### Poor security posture
-A great vacation has begun, where you have both your cellphone and laptop.
-#### Current Technical posture:
-Already signed into email on the laptop with passwords saved to the browser's built in password saver (the latter being highly insecure).
+Traveling.
+##### Current Technical posture:
+Already signed into email on the laptop and phone with the passwords saved to the browser's built in password saver. Your passwords are synced to your phone through this browser or Google account.
 
-No dedicated app for a password manager.
+Your bank 2FA codes are sent to the phone number tied to your physical SIM card in the phone.
+###### Relatively common events:
+There is a fire in the apartment and digital devices are destroyed. 
 
-Your email and bank 2FA codes are sent to the phone number tied to your physical SIM card in the phone.
+Your bag, containing both devices, is stolen on the way to the café, friend’s house or while on vacation. Or your bag is drenched in rain along the way.
 
-##### Event 1:
-Your travel bag, containing both devices, is on a table next to a pool and is bumped, landing your bag in the water. Both devices are rendered useless.
+These scenarios result in your digital devices being unavailable or defective.
 
-##### Or Event 2, 3, or 4:
-Bag is stolen.
+###### Recovery attempt:
+Purchase another cellphone, but that physical SIM card from the old phone is also damaged or is not available due to theft. This means that you won't be able to log into your bank app because many banks refuse to modernize their 2FA codes away from SMS. If you are not close your cellphone provider’s store (when traveling), you are now locked out of your banking apps.
 
-Rain damage.
+Try to log into your Google account and gain access to email. You may remember that password or not, but either way cannot sign in, because Google will prompt for the 2FA code when logging in on the new device. Since you have no device with access to this account (or it’s 2FA), this means no password sync, no email.
 
-Only have just the cellphone and it suddenly won't power on and is now unusable. Maybe the battery got hot using it as a hotspot in the sun and the circuitry was fried.
+You may have been using a Password Manager, like Keepass and cloud-synced over Dropbox - same scenario with Google account access. This is another lock-out scenario because Dropbox will send you an email for logging into a new device. With no access to that email account, there is no access to that Keepass File.
 
-##### Recovery attempt:
-Purchase another cellphone, but that physical SIM card from the old phone is also damaged or is not available due to theft. This means that you won't be able to log into your bank app because many banks refuse to modernize their 2FA codes away from SMS. You now hope you still have your ID, for receiving a friend’s kind Western Union cash transfer.
+###### Summary:
+Simply losing your daily devices results in a total lock-out scenario of all your Digital Assets. This includes your contacts (phone numbers of your support system), email, banking and all others. 
 
-Try to log into your Google account and gain access to email. You may remember that password or not, but either way cannot sign in, because Google will prompt for the 2FA code on the new device sign-in. This means no password sync, no email.
+This can be a temporary inconvenience, a loss of all accounts and starting over with no history, or even a significant security risk to your person. Maybe you have another old laptop at home that is still logged into your email or maybe not.
 
-You may have been using a Password Manager, like Keepass and cloud-synced over Dropbox. Same scenario with Google account access - this is another lock-out scenario because Dropbox will send you an email for logging into a new device. No access to that email account and so no access to that Keepass File.
+Any convenient ‘save’, where you find an old phone or laptop that is already logged into your important accounts might seem lucky, but this would be an example of a poor security posture.
 
-##### Summary:
-Simply losing your daily device results in a total lock-out scenario of all your digital assets. This includes your contacts (phone numbers of your support system), email, banking and all others. This can be an inconvenience or a significant security risk. Maybe you have another old laptop at home that is still logged into your email or maybe not.
+#### The Same common scenarios apply.
 
-### Excellent security posture (Vonvoo Method)
-A great vacation has begun, where you have both your cellphone and laptop.
-
-#### Current Technical posture:
-Already signed into email on the laptop with password (and all others) saved to the Password Manager Bitwarden.
+##### Excellent security posture (Vonvoo Method)
+Already signed into email on the laptop and phone, with the password (and all others) saved to the Password Manager Bitwarden.
 
 Your email 2FA is configured to 1) a device prompt on your current phone and 2) the Authenticator App (Authy) and 3) Backup email account Recovery Codes (saved to Bitwarden).
 
-Bank 2FA codes are sent to your Primacy Virtual Phone Number (Google Voice).
+Bank 2FA codes are sent to your Primacy Virtual Phone Number (Google Voice or the best app for your Country or scenario).
 
-##### Events from above are the same.
+###### The relatively common events from above are the same.
+###### Recovery process:
+Purchase a cheap cellphone with Emergency Cash. Create a burner/temporary Google or iOS Account to log into the phone. 
 
-##### Recovery process:
-Purchase a cheap cellphone with the Emergency Cash in your travel belt. Create a burner Google Account to log into the phone. 
+Install and log into Bitwarden and as expected, it is prompting for a 2FA code. Since this is the planned Disaster Recovery Scenario, you have the Bitwarden Recovery Code printed on the back of your laminated Emergency Card in your wallet and travel belt. Log into Bitwarden in the browser and enter the Recovery Code to temporarily disable 2FA. Now log into the Bitwarden app on the phone. Now in the browser, in the Bitwarden account, re-enable 2FA and then log out. 
 
-Log into Bitwarden and as expected, it is prompting for a 2FA code. Since this is the planned Disaster Recovery Scenario, you have the Bitwarden Recovery Code printed on the back of your laminated Emergency Card in your wallet and travel belt. Log into Bitwarden in the browser and enter the Recovery Code to temporarily disable 2FA. Now log into Bitwarden on the phone. Re-enable 2FA in the browser for Bitwarden. 
+Log into Authy, the account for the Virtual Phone Number (Google Voice) and email. Bonus, you also download the eSIM and now also have access to this phone number and data plan as well. Or if you have no eSIM, any physical SIM can be inserted into the phone, because your Critical Digital Assets, like Banking, are associated to the Google Voice phone number.
 
-Log into Authy, Google Voice and email. Bonus, you also download the eSIM and now also have access to this phone number and data plan as well. Or if you have no eSIM, any physical SIM can be inserted into the phone, because your Critical Digital Assets, like Banking, are associated to the Google Voice phone number.
-
-##### Summary:
+###### Summary:
 You have now completely recovered your Critical (and all) Digital Assets and can continue with the great vacation.
-
-### **This is how digital security, when properly implemented, guards against Digital Asset Fragility.**
+##### This is how digital security, when properly implemented, guards against Digital Asset Fragility.
 
 *Plan for the worst and have the best of times.*
-
