@@ -58,4 +58,6 @@ Log into Authy, the account for the Virtual Phone Number (Google Voice) and emai
 You have now completely recovered your Critical (and all) Digital Assets and can continue with the great vacation.
 ##### This is how digital security, when properly implemented, guards against Digital Asset Fragility.
 
+If this is your first time here, it is recommended to follow all [Vonvoo Essentials Tutorials](https://docs.vonvoo.com/en/latest/index.html "Vonvoo Essentials Tutorials") to secure your digital assets.
+
 <p style="text-align: center;"> <i>Prepare for the worst and have the best of times. </i></p> 
