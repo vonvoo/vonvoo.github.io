@@ -58,4 +58,4 @@ Log into Authy, the account for the Virtual Phone Number (Google Voice) and emai
 You have now completely recovered your Critical (and all) Digital Assets and can continue with the great vacation.
 ##### This is how digital security, when properly implemented, guards against Digital Asset Fragility.
 
-*Plan for the worst and have the best of times.*
+<p style="text-align: center;"> <i>Prepare for the worst and have the best of times. </i></p> 
