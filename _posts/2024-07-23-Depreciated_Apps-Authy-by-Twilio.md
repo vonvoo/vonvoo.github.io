@@ -30,6 +30,6 @@ Vonvoo recommends secure solutions that are friendly to the widest audience. It 
 
 Check out the [Vonvoo 2FA Tutorial](https://docs.vonvoo.com/en/latest/2%20factor%20authentication.html "Vonvoo 2FA Tutorial"). to guide the process. 
 
-If this is your first time here, it is recommended to follow all [Essentials Tutorials](https://docs.vonvoo.com/en/latest/index.html "Essentials Tutorials") to secure your digital assets.
+If this is your first time here, it is recommended to follow all [Vonvoo Essentials Tutorials](https://docs.vonvoo.com/en/latest/index.html "Vonvoo Essentials Tutorials") to secure your digital assets.
 
 <p style="text-align: center;"> <i>Prepare for the worst and have the best of times. </i></p> 
