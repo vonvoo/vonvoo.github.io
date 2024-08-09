@@ -40,19 +40,21 @@ Any convenient ‘save’, where you find an old phone or laptop that is already
 #### The Same common scenarios apply.
 
 ##### Excellent security posture (Vonvoo Method)
-Already signed into email on the laptop and phone, with the password (and all others) saved to the Password Manager Bitwarden.
+All password are saved to the Password Manager (Bitwarden).
 
-Your email 2FA is configured to 1) a device prompt on your current phone and 2) the Authenticator App (Authy) and 3) Backup email account Recovery Codes (saved to Bitwarden).
+Your email 2FA (and all other accounts) is accessed in the Authenticator App (Ente Auth).
 
 Bank 2FA codes are sent to your Primacy Virtual Phone Number (Google Voice or the best app for your Country or scenario).
 
 ###### The relatively common events from above are the same.
 ###### Recovery process:
-Purchase a cheap cellphone with Emergency Cash. Create a burner/temporary Google or iOS Account to log into the phone. 
+Purchase a cheap cellphone with Emergency Cash.
 
-Install and log into Bitwarden and as expected, it is prompting for a 2FA code. Since this is the planned Disaster Recovery Scenario, you have the Bitwarden Recovery Code printed on the back of your laminated Emergency Card in your wallet and travel belt. Log into Bitwarden in the browser and enter the Recovery Code to temporarily disable 2FA. Now log into the Bitwarden app on the phone. Now in the browser, in the Bitwarden account, re-enable 2FA and then log out. 
+Install and log into Bitwarden and as expected, it is prompting for a 2FA code. Since this is the planned [Disaster Recovery Scenario](https://docs.vonvoo.com/en/latest/password%20manager%20continued.html "Disaster Recovery Scenario"), you have the Bitwarden Recovery Code printed on the back of your laminated Emergency Card in your wallet and travel belt. Log into Bitwarden in the browser and enter the Recovery Code to temporarily disable 2FA. Now log into the Bitwarden app on the phone. 
 
-Log into Authy, the account for the Virtual Phone Number (Google Voice) and email. Bonus, you also download the eSIM and now also have access to this phone number and data plan as well. Or if you have no eSIM, any physical SIM can be inserted into the phone, because your Critical Digital Assets, like Banking, are associated to the Google Voice phone number.
+Install and log into app Ente Auth. Now in the browser, in the Bitwarden account, re-enable 2FA and then log out.
+
+Bonus, you also download you eSIM and now also have access to this phone number and data plan as well. Or if you have no eSIM, any physical SIM can be inserted into the phone, because your Critical Digital Assets, like Banking, are associated to the Virtual Phone Number phone number.
 
 ###### Summary:
 You have now completely recovered your Critical (and all) Digital Assets and can continue with the great vacation.
