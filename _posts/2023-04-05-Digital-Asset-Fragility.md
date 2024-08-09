@@ -42,7 +42,7 @@ Any convenient ‘save’, where you find an old phone or laptop that is already
 ##### Excellent security posture (Vonvoo Method)
 All password are saved to the Password Manager (Bitwarden).
 
-Your email 2FA (and all other accounts) is accessed in the Authenticator App (Ente Auth).
+Your email 2FA - and all other account 2FA - is in the Authenticator App (Ente Auth).
 
 Bank 2FA codes are sent to your Primacy Virtual Phone Number (Google Voice or the best app for your Country or scenario).
 
@@ -54,10 +54,10 @@ Install and log into Bitwarden and as expected, it is prompting for a 2FA code. 
 
 Install and log into app Ente Auth. Now in the browser, in the Bitwarden account, re-enable 2FA and then log out.
 
-Bonus, you also download you eSIM and now also have access to this phone number and data plan as well. Or if you have no eSIM, any physical SIM can be inserted into the phone, because your Critical Digital Assets, like Banking, are associated to the Virtual Phone Number phone number.
+Bonus, you also download you eSIM and now also have access to this phone number and data plan as well. Or if you have no eSIM, any physical SIM can be inserted into the phone, because your Critical Digital Assets, like Banking, are associated to the Virtual Phone Number.
 
 ###### Summary:
-You have now completely recovered your Critical (and all) Digital Assets and can continue with the great vacation.
+You have now completely recovered your Critical (and all) Digital Assets and can continue with the life.
 ##### This is how digital security, when properly implemented, guards against Digital Asset Fragility.
 
 If this is your first time here, it is recommended to follow all [Vonvoo Essentials Tutorials](https://docs.vonvoo.com/en/latest/index.html "Vonvoo Essentials Tutorials") to secure your digital assets.
